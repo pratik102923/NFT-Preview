@@ -1,0 +1,80 @@
+.eth{
+    height: 250px;
+    width: 250px;
+    border-radius: 0.8rem;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+
+}
+body{
+    background-color: hsl(217, 54%, 11%);
+    text-align: center;
+    margin: auto;
+
+
+
+}
+.container{
+    background-color:hsl(216, 50%, 16%);
+    width: 300px;
+    margin: 110px auto 100px auto;
+    border-radius: 0.8rem;
+   
+}
+.fir{
+    margin-right:110px;
+    line-height: 2;
+}
+hr{
+    background-color: hsl(215, 32%, 27%);
+    width: 80%;
+}
+.ava{
+    height: 30px;
+    width: 30px;
+    margin-top: 13px;
+   float: left;
+   margin-bottom: 10px;
+ 
+    margin-left: 25px;
+}
+.sm{
+    margin-right: 50px;
+    margin-bottom: -25px;
+    color: hsl(178, 100%, 50%);
+}
+.sma{
+    margin-left: 150px;
+    color: hsl(215, 51%, 70%);
+}
+.eq{
+    color:hsl(215, 51%, 70%);
+    font-family: "outfit",sans-serif;
+    margin-right: 120px;
+    line-height: 2;
+}
+p{
+    font-size: 16px;
+    margin: auto 15px;
+    color: hsl(215, 51%, 70%);
+
+}
+.attribution{
+    color: hsl(215, 51%, 70%);
+    text-align: center;
+    margin-top: 20px;
+
+}
+.name{
+    margin-top: 25px;
+    margin-right: 45px;
+}
+.g{
+    font-family: "outfit",sans-serif;
+    margin-bottom: 10px;
+}
+.time{
+    margin-left: 100px;
+}
+
